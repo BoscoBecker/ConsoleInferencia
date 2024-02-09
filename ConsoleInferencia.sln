@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInferencia", "ConsoleInferencia.csproj", "{CCFDD738-A8DA-45F5-947D-6162799ADE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFDD738-A8DA-45F5-947D-6162799ADE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFDD738-A8DA-45F5-947D-6162799ADE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFDD738-A8DA-45F5-947D-6162799ADE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFDD738-A8DA-45F5-947D-6162799ADE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EA9DCC-D83E-4E42-BDC9-7BE5A60C49F4}
+	EndGlobalSection
+EndGlobal
